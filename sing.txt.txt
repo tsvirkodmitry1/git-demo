@@ -1,2 +1,4 @@
 copybook
 run Vasya run
+acab police
+run Vasya run
