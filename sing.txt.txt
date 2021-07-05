@@ -3,8 +3,4 @@ run Vasya run
 acab police
 run Vasya run
 
-la la la la 
-la la la la
-it's me it's you
-it's me it's you
-----------------------------------------
+
